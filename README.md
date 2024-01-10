@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on Coding and data Science 
 - 📫 How to reach me ...
 
-
-Bikram is a entrepreneur, founder, investor with more than 7 years of professional experience. 
-I love to learn and grow, and self development. I’m self-learner and student. 
+I love coding and I’m a passionate in software engineer. I thrive in collaborative environments where 
+I can apply my adaptable mindset to create impactful software solutions.
+I love to learn and grow, and self development. 
 I love - Travel, Family, Laptop Lifestyle, and Financial Freedom.
 
-I love coding and I’m a passionate in software engineer, Data analytics, and data Science.
+
 
