@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bikramai
+- 👋 Hi, I’m @Bikram!
 - 👀 I’m interested in coding, data Science 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Coding and data Science 
