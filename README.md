@@ -1,13 +1,6 @@
 - 👋 Hi, I’m @Bikram!
-- 👀 I’m interested in coding, data Science 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Coding and data Science 
-- 📫 How to reach me ...
-
-I love coding and I’m a passionate in software engineer. I thrive in collaborative environments where 
-I can apply my adaptable mindset to create impactful software solutions.
-I love to learn and grow, and self development. 
-I love - Travel, Family, Laptop Lifestyle, and Financial Freedom.
+  
+Results-driven full-stack developer with a strong foundation in business and customer services, seeking a position in software development. With expertise in JavaScript (including Node.js and React), Python and database design and implementation, and committed to delivering user-first front-end views supported by robust, efficient back-end solutions. Bringing a unique blend of empathetic and analytical problem-solving that enhances both the technical and business aspects of development. Excels within collaborative, technically-driven environments, enthusiastically poised to enhance and elevate user experiences alongside your esteemed team!
 
 
 
