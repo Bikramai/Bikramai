@@ -109,15 +109,15 @@ I have a particular interest in translating UI designs into reality, AI generati
  ## 🤝🏻 &nbsp;Let's Connect!
 If you're as passionate about web development or if you're looking for a Professional Full Stack Web Developer DevOps & Software Engineer, I'd be happy to connect with you. Feel free to reach out ! 🌐
 <div >
-<a href="https://www.linkedin.com/in/saqib-ahmad-7740b6253/" target="_blank">
+<a href="https://www.linkedin.com/in/bikramp/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
-<a href="https://www.instagram.com/saqib_ahmad007/" target="_blank">
+<a href="https://www.instagram.com/bikramp_official/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
-<a href="https://www.facebook.com/saqibahmad.rahi" target="_blank">
+<!-- <a href="https://www.facebook.com/saqibahmad.rahi" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-</a>
+</a> -->
 <a href="mailto:saqibahmad778866@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
