@@ -1,7 +1,8 @@
 <h1>
 👋 Hello World!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  
 </h1>
-👋 Hi, I’m Bikram!
+
+👋 Hi, I’m Bikram!<br/>
 
 I'm a newly minted Junior Full Stack Developer coding in TypeScript, JavaScript, Python, SQL. Frameworks I've worked with: Flask, Django, React, Node.js. Love working with REST APIs and PostgreSQL/Postman databases on backend. I'm currently coding 8-10 hours a day and I love every minute of it. I can't wait to find my first full time opportunity.
 
