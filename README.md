@@ -147,8 +147,8 @@ If you're as passionate about web development or if you're looking for a Profess
 ## 📊 GitHub Stats:
 
 <div align="center" style="display: flex; align-items:center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib-DevSecOps&theme=blue-green" alt="devops" style="max-width: 100%; height: 175px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-DevSecOps&theme=blue-green" style="max-width: 100%; height: 175px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bikramai&theme=blue-green" alt="devops" style="max-width: 100%; height: 175px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikramai&theme=blue-green" style="max-width: 100%; height: 175px;" />
 </div> 
 
 
