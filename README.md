@@ -1,8 +1,5 @@
 <h1>
 👋 Hi, I’m Bikram! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-I'm a newly minted Junior Full Stack Developer coding in TypeScript, JavaScript, Python, SQL. Frameworks I've worked with: Flask, Django, React, Node.js. Love working with REST APIs and PostgreSQL/Postman databases on backend. I'm currently coding 8-10 hours a day and I love every minute of it. I can't wait to find my first full time opportunity.
-
-I have a particular interest in translating UI designs into reality, AI generative tools to solve problems, clean, refactored code, testing and TDD, and would love to learn more about Cloud hosting.
 </h1>
 
 <!--
@@ -18,6 +15,9 @@ You can click the Preview link to take a look at your changes. -->
 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 </h1>
 
+I'm a newly minted Junior Full Stack Developer coding in TypeScript, JavaScript, Python, SQL. Frameworks I've worked with: Flask, Django, React, Node.js. Love working with REST APIs and PostgreSQL/Postman databases on backend. I'm currently coding 8-10 hours a day and I love every minute of it. I can't wait to find my first full time opportunity.
+
+I have a particular interest in translating UI designs into reality, AI generative tools to solve problems, clean, refactored code, testing and TDD, and would love to learn more about Cloud hosting.
 I'm saqib a Professional Full Stack Web Developer DevOps & Software Engineer. 🎨
 
  𝐈 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐞 𝐢𝐧 𝐜𝐫𝐚𝐟𝐭𝐢𝐧𝐠 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐚𝐧𝐝 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐰𝐢𝐭𝐡 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐢𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞𝐬, 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐥𝐨𝐠𝐢𝐜, 𝐚𝐧𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬. 𝐈 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐜𝐮𝐬𝐭𝐨𝐦𝐢𝐳𝐞𝐝 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐭𝐡𝐚𝐭 𝐦𝐞𝐫𝐠𝐞 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧, 𝐪𝐮𝐚𝐥𝐢𝐭𝐲, 𝐚𝐧𝐝 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐢𝐬𝐦 𝐭𝐨 𝐚𝐜𝐡𝐢𝐞𝐯𝐞 𝐜𝐥𝐢𝐞𝐧𝐭 𝐨𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬 𝐚𝐧𝐝 𝐟𝐨𝐬𝐭𝐞𝐫 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐬𝐮𝐜𝐜𝐞𝐬𝐬. 🚀
