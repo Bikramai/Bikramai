@@ -1,5 +1,5 @@
 <h1>
-👋 Hi, I’m Bikram! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+👋 Hello World!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 👋 Hi, I’m Bikram! 
 </h1>
 
 <!--
