@@ -71,8 +71,8 @@ I have a particular interest in translating UI designs into reality, AI generati
 ## 🏆 Badges
 
 <div align="center">
- <a href="https://www.credly.com/earner/earned/badge/3350277c-2201-4046-88a3-43da63897d6d">
-    <img src="https://images.credly.com/size/110x110/images/" 
+ <a href="https://www.credly.com/badges/78d69f54-6212-46b6-9c2b-21d3562aba37">
+    <img src="https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" 
      alt="designing-user-interfaces-and-experiences-ui-ux" width="100" height="100">
   </a>
 <!--   <a href="https://www.credly.com/badges/84da1498-c523-46c8-8605-55720c8bd7f5">
