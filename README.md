@@ -13,7 +13,7 @@ I have a particular interest in translating UI designs into reality, AI generati
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Bikramai-DevSecOps/Bikramai-DevSecOps/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
 ## 🛠 Skills
@@ -71,7 +71,7 @@ I have a particular interest in translating UI designs into reality, AI generati
 ## 🏆 Badges
 
 <div align="center">
-  <a href="https://www.credly.com/badges/78d69f54-6212-46b6-9c2b-21d3562aba37">
+  <a href="https://www.credly.com/badges/78d69f54-6212-46b6-9c2b-21d3562aba37](https://www.credly.com/org/coding-temple/badge/front-end-engineering-certificate-of-completion">
     <img src="https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" 
      alt="designing-user-interfaces-and-experiences-ui-ux" width="100" height="100">
   </a>
