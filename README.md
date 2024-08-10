@@ -17,7 +17,7 @@ I have a particular interest in translating UI designs into reality, AI generati
 <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
-## 🛠 Skills
+<!--## 🛠 Skills
 
 ![HTML](https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge)
 ![CSS](https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge)
@@ -135,7 +135,7 @@ If you're as passionate about web development or if you're looking for a Profess
 <br/>
 <br/>
 
-## 📊 GitHub Stats:
+<!--## 📊 GitHub Stats:
 
 <div align="center" style="display: flex; align-items:center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib-DevSecOps&theme=blue-green" alt="devops" style="max-width: 100%; height: 175px;" />
