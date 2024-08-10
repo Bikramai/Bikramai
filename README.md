@@ -63,7 +63,7 @@ I have a particular interest in translating UI designs into reality, AI generati
 ![Heroku](https://img.shields.io/static/v1?message=Heroku&logo=heroku&label=&color=430098&logoColor=white&labelColor=&style=for-the-badge)
 ![DigitalOcean](https://img.shields.io/static/v1?message=DigitalOcean&logo=digitalocean&label=&color=0080FF&logoColor=white&labelColor=&style=for-the-badge)
 ![Linode](https://img.shields.io/static/v1?message=Linode&logo=linode&label=&color=00A95C&logoColor=white&labelColor=&style=for-the-badge)
-![AWS](https://img.shields.io/static/v1?message=AWS&logo=amazon-aws&label=&color=232F3E&logoColor=white&labelColor=&style=for-the-badge)
+
 
 <br/>
 <br/>
