@@ -37,7 +37,7 @@ I have a particular interest in translating UI designs into reality, AI generati
 ![Figma](https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge)
 ![Python](https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge)
 ![Java](https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge)
-![C](https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&labelColor=&style=for-the-badge)
+<!--![C](https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&labelColor=&style=for-the-badge)-->
 ![Django](https://img.shields.io/static/v1?message=Django&logo=django&label=&color=092E20&logoColor=white&labelColor=&style=for-the-badge)
 ![Flask](https://img.shields.io/static/v1?message=Flask&logo=flask&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge)
