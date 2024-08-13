@@ -64,7 +64,7 @@ I have a particular interest in translating UI designs into reality, AI generati
 ![Heroku](https://img.shields.io/static/v1?message=Heroku&logo=heroku&label=&color=430098&logoColor=white&labelColor=&style=for-the-badge)
 ![DigitalOcean](https://img.shields.io/static/v1?message=DigitalOcean&logo=digitalocean&label=&color=0080FF&logoColor=white&labelColor=&style=for-the-badge)
 ![Linode](https://img.shields.io/static/v1?message=Linode&logo=linode&label=&color=00A95C&logoColor=white&labelColor=&style=for-the-badge)
-![AWS](https://img.shields.io/static/v1?message=AWS&logo=amazon-aws&label=&color=232F3E&logoColor=white&labelColor=&style=for-the-badge)
+<!--![AWS](https://img.shields.io/static/v1?message=AWS&logo=amazon-aws&label=&color=232F3E&logoColor=white&labelColor=&style=for-the-badge)-->
 
 
 <br/>
@@ -135,7 +135,7 @@ If you're as passionate about web development or if you're looking for a Profess
 <br/>
 <br/>
 
-<!--## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center" style="display: flex; align-items:center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib-DevSecOps&theme=blue-green" alt="devops" style="max-width: 100%; height: 175px;" />
