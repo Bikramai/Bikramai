@@ -23,23 +23,29 @@ I have a particular interest in translating UI designs into reality, AI generati
 ![CSS](https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge)
 ![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge)
 ![ES6](https://img.shields.io/static/v1?message=ES6&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
+![Express.js](https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=563D7C&logoColor=white&labelColor=&style=for-the-badge)
-![Git](https://img.shields.io/static/v1?message=Git&logo=git&label=&color=E44C30&logoColor=white&labelColor=&style=for-the-badge)
-![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)
-![React](https://img.shields.io/static/v1?message=React&logo=react&label=&color=20232A&logoColor=61DAFB&labelColor=&style=for-the-badge)
-![Next.js](https://img.shields.io/static/v1?message=Next.js&logo=next.js&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
-![MongoDB](https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge)
-![Firebase](https://img.shields.io/static/v1?message=Firebase&logo=firebase&label=&color=FFCA28&logoColor=black&labelColor=&style=for-the-badge)
-![Express.js](https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
 ![Node.js](https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge)
-![Figma](https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge)
+![React](https://img.shields.io/static/v1?message=React&logo=react&label=&color=20232A&logoColor=61DAFB&labelColor=&style=for-the-badge)
 ![Python](https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge)
-![Java](https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge)
-![C](https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&labelColor=&style=for-the-badge)
 ![Django](https://img.shields.io/static/v1?message=Django&logo=django&label=&color=092E20&logoColor=white&labelColor=&style=for-the-badge)
 ![Flask](https://img.shields.io/static/v1?message=Flask&logo=flask&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
+![Figma](https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge)
+![Java](https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge)
+![MySQL](https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&label=&color=336791&logoColor=white&labelColor=&style=for-the-badge)
+![MongoDB](https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge)
+![Firebase](https://img.shields.io/static/v1?message=Firebase&logo=firebase&label=&color=FFCA28&logoColor=black&labelColor=&style=for-the-badge)
+![Git](https://img.shields.io/static/v1?message=Git&logo=git&label=&color=E44C30&logoColor=white&labelColor=&style=for-the-badge)
+![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)
+![GitLab](https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge)
+![Docker](https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge)
+![Netlify](https://img.shields.io/static/v1?message=Netlify&logo=netlify&label=&color=00C7B7&logoColor=white&labelColor=&style=for-the-badge)
+![Heroku](https://img.shields.io/static/v1?message=Heroku&logo=heroku&label=&color=430098&logoColor=white&labelColor=&style=for-the-badge)
+![DigitalOcean](https://img.shields.io/static/v1?message=DigitalOcean&logo=digitalocean&label=&color=0080FF&logoColor=white&labelColor=&style=for-the-badge)
+<!--![Next.js](https://img.shields.io/static/v1?message=Next.js&logo=next.js&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)
+![C](https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&labelColor=&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge)
 ![PyTorch](https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&label=&color=EE4C2C&logoColor=white&labelColor=&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/static/v1?message=Scikit-learn&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge)
@@ -50,21 +56,14 @@ I have a particular interest in translating UI designs into reality, AI generati
 ![Pandas](https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=150458&logoColor=white&labelColor=&style=for-the-badge)
 ![NumPy](https://img.shields.io/static/v1?message=NumPy&logo=numpy&label=&color=013243&logoColor=white&labelColor=&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=11557C&logoColor=white&labelColor=&style=for-the-badge)
-![MySQL](https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&label=&color=336791&logoColor=white&labelColor=&style=for-the-badge)
-![Redis](https://img.shields.io/static/v1?message=Redis&logo=redis&label=&color=DC382D&logoColor=white&labelColor=&style=for-the-badge)
+<!--![Redis](https://img.shields.io/static/v1?message=Redis&logo=redis&label=&color=DC382D&logoColor=white&labelColor=&style=for-the-badge)
 ![Celery](https://img.shields.io/static/v1?message=Celery&logo=celery&label=&color=37814A&logoColor=white&labelColor=&style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/static/v1?message=RabbitMQ&logo=rabbitmq&label=&color=FF6600&logoColor=white&labelColor=&style=for-the-badge)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitLab](https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge)
 ![Jenkins](https://img.shields.io/static/v1?message=Jenkins&logo=jenkins&label=&color=D24939&logoColor=white&labelColor=&style=for-the-badge)
-![Docker](https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&label=&color=326CE5&logoColor=white&labelColor=&style=for-the-badge)
-![Netlify](https://img.shields.io/static/v1?message=Netlify&logo=netlify&label=&color=00C7B7&logoColor=white&labelColor=&style=for-the-badge)
-![Heroku](https://img.shields.io/static/v1?message=Heroku&logo=heroku&label=&color=430098&logoColor=white&labelColor=&style=for-the-badge)
-![DigitalOcean](https://img.shields.io/static/v1?message=DigitalOcean&logo=digitalocean&label=&color=0080FF&logoColor=white&labelColor=&style=for-the-badge)
-<!--![Linode](https://img.shields.io/static/v1?message=Linode&logo=linode&label=&color=00A95C&logoColor=white&labelColor=&style=for-the-badge)
-<!--![AWS](https://img.shields.io/static/v1?message=AWS&logo=amazon-aws&label=&color=232F3E&logoColor=white&labelColor=&style=for-the-badge)-->
+![Linode](https://img.shields.io/static/v1?message=Linode&logo=linode&label=&color=00A95C&logoColor=white&labelColor=&style=for-the-badge)
+![AWS](https://img.shields.io/static/v1?message=AWS&logo=amazon-aws&label=&color=232F3E&logoColor=white&labelColor=&style=for-the-badge)-->
 
 
 <br/>
@@ -146,6 +145,15 @@ If you're as passionate about web development or if you're looking for a Profess
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib-DevSecOps&theme=blue-green" alt="devops" style="max-width: 100%; height: 175px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-DevSecOps&theme=blue-green" style="max-width: 100%; height: 175px;" />
 </div>
+  
+  
+<!--## 📊 GitHub Stats:
+
+
+<!--![](https://github-readme-stats.vercel.app/api?username=ikramovna&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ikramovna&theme=swift&hide_border=false)<br/> -->
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramovna&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
+
 
 <br>
 <br>
