@@ -74,31 +74,38 @@ I have a particular interest in translating UI designs into reality, AI generati
 
 <div align="center">
  <a href="https://www.credly.com/earner/earned/badge/3350277c-2201-4046-88a3-43da63897d6d">
-    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/4abab2fd-db88-4d87-ba0d-743c3047105e/image.png" alt="Software Engineering: Certificate of Completion badge image. Certification. Foundational level. Issued by Coding Temple" width="340" height="340">
+    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/4abab2fd-db88-4d87-ba0d-743c3047105e/image.png" alt="Software Engineering: Certificate of Completion badge image. Certification. Foundational level. Issued by Coding Temple" width="100" height="100">
   </a>
-<!--   <a href="https://www.credly.com/badges/84da1498-c523-46c8-8605-55720c8bd7f5">
-    <img src="https://images.credly.com/size/340x340/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png" 
-     alt="cloud-native-devops-agile-nosql-essentials" width="100" height="100">
+<a href="https://www.credly.com/earner/earned/badge/9fb6e77a-1d5a-4cf3-b713-e5a0c967111d">
+    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/3652f50d-ccdd-4d5f-8560-af205a4ba4d4/image.png" alt="JavaScript Certified badge image. Experience. Foundational level. Issued by Coding Temple" width="100" height="100">
   </a> 
-  <a href="https://www.credly.com/badges/aaea3ab8-2d1a-46c2-9177-2ea64a44d1a8">
-    <img src="https://i.ibb.co/LRdQXHQ/image-1-removebg-preview.png" alt="image-1-removebg-preview" 
-     alt="web-development-with-html-css-javascript-essentials" width="100" height="100">
+  <a href="https://www.credly.com/earner/earned/badge/eb1f41d2-564f-4b65-b632-4a4ff6bd3053">
+    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/a220d3a8-6185-42f9-9e44-f2ae37877721/image.png" alt="NodeJS Certified badge image. Certification. Foundational level. Issued by Coding Temple" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/a1830143-fe17-40f7-8caa-0e7d8530722c">
-    <img src="https://i.ibb.co/LRdQXHQ/image-1-removebg-preview.png" 
-     alt="Software Engineering Essentials" width="100" height="100">
+  <a href="https://www.credly.com/earner/earned/badge/f0c7c8f7-daf3-4fe0-8515-d6c04b96e705">
+    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/a4256fae-8645-4aab-8084-9942439bdb41/image.png" alt="React Certified badge image. Certification. Foundational level. Issued by Coding Temple" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/2fdf0ad5-3bfd-4aab-ae81-8d106505b3d8">
-    <img src="https://images.credly.com/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png" 
-     alt="intermediate-front-end-web-development" width="100" height="100">
+  <a href="https://www.credly.com/earner/earned/badge/49ab9abf-69d5-4c1c-b05a-96ca4316cba0">
+    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/47572ec1-e407-42d7-9781-2a65f4c38228/image.png" alt="TypeScript Certified badge image. Learning. Foundational level. Issued by Coding Temple" width="88" height="88">
   </a>
-  <a href="https://www.credly.com/badges/9fba1e4e-3334-4641-84a8-f0941d3226be">
-    <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/f140819a-8c85-487f-8e5e-4a6a0c28de48" 
-     alt="git-and-github" width="100" height="100">
+  <a href="https://www.credly.com/earner/earned/badge/a58de603-0fc8-46f0-9365-332e11af771b">
+    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/d2ce1275-b1dc-46c3-b31d-e6c5eb182cc4/image.png" alt="Python Certified badge image. Certification. Intermediate level. Issued by Coding Temple" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/120407eb-eda8-40f5-84d7-2f5b194981c8">
-    <img src="https://github.com/mostafahassan-dev/mostafahassan-dev/assets/104537380/0e2260c2-53d7-4359-ad34-4f1260fc4470" 
-     alt="front-end-development-with-react" width="100" height="100">
+  <a href="https://www.credly.com/earner/earned/badge/5d0419a7-9765-4e03-b1f6-f182ee63f3e4">
+    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/ceb9d2f3-b9cb-4a05-bb54-7b491810578d/image.png" alt="Flask Certified badge image. Certification. Foundational level. Issued by Coding Temple" width="100" height="100">
+  </a>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/2779c32f-812c-4ae6-b3b1-7b2d76e7337a">
+    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/84934681-aa28-4da2-8fd4-0ae4469744a5/image.png" alt="SQL Certified badge image. Certification. Foundational level. Issued by Coding Temple" width="100" height="100">
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/f953028d-bc39-4bb1-a9d6-30e1c99ad94f">
+    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/f10cfb58-b0fe-4d5c-ba76-bdadc3e1fff3/image.png" alt="HTML Certified badge image. Experience. Foundational level. Issued by Coding Temple" width="100" height="100">
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/b70f63d7-f3c3-44d1-a7cc-0d12ba8c7617">
+    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/cb615822-7cee-4f3c-b67c-891196b0d01f/image.png" alt="CSS Certified badge image. Experience. Foundational level. Issued by Coding Temple" width="100" height="100">
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/ee72d130-14fa-4069-9af3-3efbcac7b0aa">
+    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Professional Certificate badge image. Learning. Issued by Coursera" width="100" height="100">
   </a>
 
 </div> -->
