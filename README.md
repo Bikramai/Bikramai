@@ -144,10 +144,6 @@ If you're as passionate about web development or if you're looking for a Profess
 
 <br>
 <br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sweedarbk&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" width="40%" />
-</div>
-<br>
 <h3 align="center">Thanks for stopping by!</h3>
 <br>
 
