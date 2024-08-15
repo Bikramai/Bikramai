@@ -142,6 +142,14 @@ If you're as passionate about web development or if you're looking for a Profess
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-DevSecOps&theme=blue-green" style="max-width: 100%; height: 175px;" />
 </div>
 
+</div>
+<div align="center">
+  <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind" width="9%"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="6%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="nodejs" width="18%" />
+  <img src="https://static-00.iconduck.com/assets.00/postgresql-plain-wordmark-icon-2048x2042-up54u54l.png" alt="postgresql" width="7%" />
+</div>
+
 <br>
 <br>
 <h3 align="center">Thanks for stopping by!</h3>
