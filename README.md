@@ -107,8 +107,7 @@ I have a particular interest in translating UI designs into reality, AI generati
   <a href="https://www.credly.com/earner/earned/badge/ee72d130-14fa-4069-9af3-3efbcac7b0aa">
     <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Professional Certificate badge image. Learning. Issued by Coursera" width="100" height="100">
   </a>
-
-</div> -->
+</div> 
 
 
 
