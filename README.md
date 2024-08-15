@@ -72,10 +72,9 @@ I have a particular interest in translating UI designs into reality, AI generati
 
 ## 🏆 Badges
 
-<!--<div align="center">
+<div align="center">
  <a href="https://www.credly.com/earner/earned/badge/3350277c-2201-4046-88a3-43da63897d6d">
-    <img src="https://www.credly.com/earner/earned/badge/3350277c-2201-4046-88a3-43da63897d6d" 
-     alt="designing-user-interfaces-and-experiences-ui-ux" width="100" height="100">
+    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/4abab2fd-db88-4d87-ba0d-743c3047105e/image.png" alt="Software Engineering: Certificate of Completion badge image. Certification. Foundational level. Issued by Coding Temple" width="340" height="340">
   </a>
 <!--   <a href="https://www.credly.com/badges/84da1498-c523-46c8-8605-55720c8bd7f5">
     <img src="https://images.credly.com/size/340x340/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png" 
@@ -140,14 +139,6 @@ If you're as passionate about web development or if you're looking for a Profess
 <div align="center" style="display: flex; align-items:center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib-DevSecOps&theme=blue-green" alt="devops" style="max-width: 100%; height: 175px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-DevSecOps&theme=blue-green" style="max-width: 100%; height: 175px;" />
-</div>
-
-</div>
-<div align="center">
-  <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind" width="9%"  />
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="6%" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="nodejs" width="18%" />
-  <img src="https://static-00.iconduck.com/assets.00/postgresql-plain-wordmark-icon-2048x2042-up54u54l.png" alt="postgresql" width="7%" />
 </div>
 
 <br>
