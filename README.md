@@ -72,10 +72,7 @@ I have a particular interest in translating UI designs into reality, AI generati
 ## 🏆 Badges
 
 <div align="center">
- <a href="https://www.credly.com/earner/earned/badge/3350277c-2201-4046-88a3-43da63897d6d">
-    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/4abab2fd-db88-4d87-ba0d-743c3047105e/image.png" alt="Software Engineering: Certificate of Completion badge image. Certification. Foundational level. Issued by Coding Temple" width="100" height="100">
-  </a>
-<a href="https://www.credly.com/earner/earned/badge/9fb6e77a-1d5a-4cf3-b713-e5a0c967111d">
+ <a href="https://www.credly.com/earner/earned/badge/9fb6e77a-1d5a-4cf3-b713-e5a0c967111d">
     <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/3652f50d-ccdd-4d5f-8560-af205a4ba4d4/image.png" alt="JavaScript Certified badge image. Experience. Foundational level. Issued by Coding Temple" width="100" height="100">
   </a> 
   <a href="https://www.credly.com/earner/earned/badge/eb1f41d2-564f-4b65-b632-4a4ff6bd3053">
@@ -102,6 +99,9 @@ I have a particular interest in translating UI designs into reality, AI generati
   </a>
   <a href="https://www.credly.com/earner/earned/badge/b70f63d7-f3c3-44d1-a7cc-0d12ba8c7617">
     <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/cb615822-7cee-4f3c-b67c-891196b0d01f/image.png" alt="CSS Certified badge image. Experience. Foundational level. Issued by Coding Temple" width="100" height="100">
+  </a>
+ <a href="https://www.credly.com/earner/earned/badge/3350277c-2201-4046-88a3-43da63897d6d">
+    <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/4abab2fd-db88-4d87-ba0d-743c3047105e/image.png" alt="Software Engineering: Certificate of Completion badge image. Certification. Foundational level. Issued by Coding Temple" width="100" height="100">
   </a>
   <a href="https://www.credly.com/earner/earned/badge/ee72d130-14fa-4069-9af3-3efbcac7b0aa">
     <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Professional Certificate badge image. Learning. Issued by Coursera" width="100" height="100">
@@ -133,8 +133,7 @@ If you're as passionate about web development or if you're looking for a Profess
 <a href="" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="upwork logo" />
 </a>
-
-    
+   
 </div>
 <br/>
 <br/>
