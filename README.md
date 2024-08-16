@@ -66,7 +66,6 @@ I have a particular interest in translating UI designs into reality, AI generati
 ![AWS](https://img.shields.io/static/v1?message=AWS&logo=amazon-aws&label=&color=232F3E&logoColor=white&labelColor=&style=for-the-badge)-->
 
 <br/>
-<br/>
 
 ## 🏆 Badges
 
@@ -108,9 +107,6 @@ I have a particular interest in translating UI designs into reality, AI generati
 </div> 
 
 
-
-
-
  ## 🤝🏻 &nbsp;Let's Connect!
 If you're as passionate about web development or if you're looking for a Professional Full Stack Web Developer DevOps & Software Engineer, I'd be happy to connect with you. Feel free to reach out ! 🌐
 <div >
@@ -135,7 +131,6 @@ If you're as passionate about web development or if you're looking for a Profess
    
 </div>
 <br/>
-<br/>
 
 ## 📊 GitHub Stats:
 
@@ -144,8 +139,7 @@ If you're as passionate about web development or if you're looking for a Profess
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-DevSecOps&theme=blue-green" style="max-width: 100%; height: 175px;" /> -->
 </div> 
 
-  
-
+ 
 ## 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=ikramovna&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ikramovna&theme=swift&hide_border=false)<br/> -->
