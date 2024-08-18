@@ -128,7 +128,6 @@ If you're as passionate about web development or if you're looking for a Profess
 </a>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bikramai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="12%" /> </p>
-<br/>
 
 ## 📊 GitHub Stats:
 
@@ -138,17 +137,13 @@ If you're as passionate about web development or if you're looking for a Profess
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikramai&theme=blue-green" style="max-width: 100%; height: 175px;" /> -->
 </div> 
 
- 
 ## 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=ikramovna&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ikramovna&theme=swift&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramovna&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikramai&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
-<br>
 
-<br>
 <h3 align="center">Thanks for stopping by!</h3>
-<br>
 
 
 
