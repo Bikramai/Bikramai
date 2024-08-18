@@ -11,11 +11,8 @@ I have a particular interest in translating UI designs into reality, AI generati
 
 𝐈 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐞 𝐢𝐧 𝐜𝐫𝐚𝐟𝐭𝐢𝐧𝐠 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐚𝐧𝐝 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐰𝐢𝐭𝐡 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐢𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞𝐬, 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐥𝐨𝐠𝐢𝐜, 𝐚𝐧𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬. 𝐈 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐜𝐮𝐬𝐭𝐨𝐦𝐢𝐳𝐞𝐝 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐭𝐡𝐚𝐭 𝐦𝐞𝐫𝐠𝐞 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧, 𝐪𝐮𝐚𝐥𝐢𝐭𝐲, 𝐚𝐧𝐝 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐢𝐬𝐦 𝐭𝐨 𝐚𝐜𝐡𝐢𝐞𝐯𝐞 𝐜𝐥𝐢𝐞𝐧𝐭 𝐨𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬 𝐚𝐧𝐝 𝐟𝐨𝐬𝐭𝐞𝐫 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐬𝐮𝐜𝐜𝐞𝐬𝐬. 🚀
 <!--<a href="https://bikram-portfolio-2.vercel.app"><strong>Visit my personal website </strong></a> -->
-
 <br/>
-
 <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 
 ## 🛠 Skills
 
@@ -67,6 +64,7 @@ I have a particular interest in translating UI designs into reality, AI generati
 
 <br/>
 
+
 ## 🏆 Badges
 
 <div align="center">
@@ -108,7 +106,7 @@ I have a particular interest in translating UI designs into reality, AI generati
 
 
  ## 🤝🏻 &nbsp;Let's Connect!
-If you're as passionate about web development or if you're looking for a Professional Full Stack Web Developer DevOps & Software Engineer, I'd be happy to connect with you. Feel free to reach out ! 🌐
+If you're as passionate about web development or if you're looking for a Professional Full Stack Web Developer DevOps & Software Engineer, I'd be happy to connect with you. Feel free to reach out ! 🌐 
 <div >
 <a href="https://www.linkedin.com/in/bikramp/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -128,8 +126,8 @@ If you're as passionate about web development or if you're looking for a Profess
 <a href="" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="upwork logo" />
 </a>
-   
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bikramai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="10%" /> </p>
 <br/>
 
 ## 📊 GitHub Stats:
