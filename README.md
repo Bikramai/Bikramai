@@ -135,8 +135,9 @@ If you're as passionate about web development or if you're looking for a Profess
 ## 📊 GitHub Stats:
 
 <div align="left" style="display: flex; align-items:center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib-DevSecOps&theme=blue-green" alt="devops" style="max-width: 100%; height: 175px;" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-DevSecOps&theme=blue-green" style="max-width: 100%; height: 175px;" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bikramai&theme=blue-green" alt="devops" style="max-width: 100%; height: 175px;" />
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqib-DevSecOps&theme=blue-green" alt="devops" style="max-width: 100%; height: 175px;" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikramai&theme=blue-green" style="max-width: 100%; height: 175px;" /> -->
 </div> 
 
  
@@ -144,6 +145,7 @@ If you're as passionate about web development or if you're looking for a Profess
 <!--![](https://github-readme-stats.vercel.app/api?username=ikramovna&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ikramovna&theme=swift&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramovna&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikramai&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 <br>
 
 <br>
