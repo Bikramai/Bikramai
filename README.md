@@ -127,7 +127,8 @@ If you're as passionate about web development or if you're looking for a Profess
   <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="upwork logo" />
 </a>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bikramai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="12%" /> </p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bikramai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="15%" /> </p>
 
 ## 📊 GitHub Stats:
 
