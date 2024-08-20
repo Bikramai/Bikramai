@@ -4,7 +4,7 @@
 
 👋 Hi, I’m Bikram!<br/>
 
-Full stack software engineer, interested in crafting high-quality, clean code and continuing to expand my interest in algorithms, data structures, object-oriented code, and scalable design. Prior career informs my relatability, documentation, time management, attention to detail, delivery, responsiveness, and positivity to advance a software team. Full Stack Developer coding on JavaScript, TypeScript, Python, SQL. Frameworks I've worked with: Flask, Django, React, Node.js. Love working with REST APIs and PostgreSQL databases on backend.
+Full stack software engineer, interested in crafting high-quality, clean code and continuing to expand my interest in algorithms, data structures, object-oriented code, and scalable design with coding on JavaScript, TypeScript, Python, SQL. Frameworks I've worked with: Flask, Django, React, Node.js. Love working with REST APIs and PostgreSQL databases on backend.
 
 I have a particular interest in translating UI designs into reality, AI generative tools to solve problems, clean, refactored code, testing and TDD, and would love to learn more about Cloud hosting.
 🎨
