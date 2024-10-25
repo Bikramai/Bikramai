@@ -144,7 +144,7 @@ If you're as passionate about web development or if you're looking for a Profess
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramovna&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikramai&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
-<h3 align="center">Thanks for stopping by!</h3>
+<h3 align="center">Thanks for Visiting My GitHub Portfolio!🙇</h3>
 
 
 
